@@ -26,7 +26,7 @@ A interface **GerenciadorDeClientes** é **monolítica**, pois reúne várias re
 
 Com isso, todas as classes que implementam essa interface são obrigadas a implementar **todos os métodos**, mesmo aqueles que **não fazem sentido para elas**.
 
-### 📌 No exemplo
+### 📌 No código
 
 - **ClienteVIPService** usa todos os métodos → **não há problema**
 
